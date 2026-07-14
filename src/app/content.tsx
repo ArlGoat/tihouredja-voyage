@@ -489,7 +489,7 @@ export const faqs = [
   ],
   [
     "How do I sign up for a tour?",
-    "Booking your tour with Tihay Tours is simple. Fill out our booking form to choose a group or private tour. After submitting, you'll receive confirmation within 48 hours. A €200 deposit per person via bank transfer is required to secure your spot. This goes toward your total tour cost.",
+    "Booking your tour with Tihouredja Voyage is simple. Fill out our booking form to choose a group or private tour. After submitting, you'll receive confirmation within 48 hours. A €200 deposit per person via bank transfer is required to secure your spot. This goes toward your total tour cost.",
   ],
   [
     "How do I pay for my tour?",
@@ -501,11 +501,11 @@ export const faqs = [
   ],
   [
     "Is Djanet safe for tourists?",
-    "Djanet is remote, but security is maintained by the Algerian government. Tihay Tours coordinates with local authorities to ensure your safety throughout your journey. Tourist movements are monitored to provide protection.",
+    "Djanet is remote, but security is maintained by the Algerian government. Tihouredja Voyage coordinates with local authorities to ensure your safety throughout your journey. Tourist movements are monitored to provide protection.",
   ],
   [
     "What languages are your tours in?",
-    "Tihay Tours offers multilingual tours in English, French, German, Swiss German, Arabic, and Spanish. Our international team ensures you feel at home.",
+    "Tihouredja Voyage offers multilingual tours in English, French, German, Swiss German, Arabic, and Spanish. Our international team ensures you feel at home.",
   ],
   [
     "What is accommodation like?",

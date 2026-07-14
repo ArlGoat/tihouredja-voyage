@@ -486,7 +486,7 @@ export const faqs = [
   ],
   [
     "Comment s'inscrire à un circuit ?",
-    "Réserver votre circuit avec Tihay Tours est simple. Remplissez notre formulaire de réservation pour choisir un circuit en groupe ou privé. Après l'envoi, vous recevrez une confirmation sous 48 heures. Un acompte de 200 € par personne par virement bancaire est requis pour garantir votre place. Il sera déduit du coût total de votre circuit.",
+    "Réserver votre circuit avec Tihouredja Voyage est simple. Remplissez notre formulaire de réservation pour choisir un circuit en groupe ou privé. Après l'envoi, vous recevrez une confirmation sous 48 heures. Un acompte de 200 € par personne par virement bancaire est requis pour garantir votre place. Il sera déduit du coût total de votre circuit.",
   ],
   [
     "Comment payer mon circuit ?",
@@ -498,11 +498,11 @@ export const faqs = [
   ],
   [
     "Djanet est-elle sûre pour les touristes ?",
-    "Djanet est isolée, mais la sécurité est assurée par le gouvernement algérien. Tihay Tours se coordonne avec les autorités locales pour garantir votre sécurité tout au long de votre voyage. Les mouvements des touristes sont surveillés pour assurer leur protection.",
+    "Djanet est isolée, mais la sécurité est assurée par le gouvernement algérien. Tihouredja Voyage se coordonne avec les autorités locales pour garantir votre sécurité tout au long de votre voyage. Les mouvements des touristes sont surveillés pour assurer leur protection.",
   ],
   [
     "Dans quelles langues vos circuits sont-ils proposés ?",
-    "Tihay Tours propose des circuits multilingues en anglais, français, allemand, suisse allemand, arabe et espagnol. Notre équipe internationale veille à ce que vous vous sentiez comme chez vous.",
+    "Tihouredja Voyage propose des circuits multilingues en anglais, français, allemand, suisse allemand, arabe et espagnol. Notre équipe internationale veille à ce que vous vous sentiez comme chez vous.",
   ],
   [
     "Comment est l'hébergement ?",
