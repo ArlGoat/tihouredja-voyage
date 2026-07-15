@@ -533,7 +533,7 @@ export const faqs = [
   ],
   [
     "What is the visa process?",
-    "Book with Tihay and we assist with a visa on arrival through travel authorization. You'll pay the visa fee at the airport. Documents will be issued via our partner agency Rêves et Nature.",
+    "Book with Tihouredja and we assist with a visa on arrival through travel authorization. You'll pay the visa fee at the airport. Documents will be issued via our partner agency Rêves et Nature.",
   ],
   [
     "How do I get to Djanet?",
@@ -545,7 +545,7 @@ export const faqs = [
   ],
   [
     "Can I pay with card in Algeria?",
-    "No. Algeria is a cash-based economy. Bring enough cash for your trip. Currency exchange is available at airports, but Tihay can also assist.",
+    "No. Algeria is a cash-based economy. Bring enough cash for your trip. Currency exchange is available at airports, but Tihouredja can also assist.",
   ],
   [
     "Do I need travel insurance?",

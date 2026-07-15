@@ -530,7 +530,7 @@ export const faqs = [
   ],
   [
     "Quelle est la procédure pour le visa ?",
-    "Réservez avec Tihay et nous vous aidons à obtenir un visa à l'arrivée grâce à une autorisation de voyage. Vous paierez les frais de visa à l'aéroport. Les documents seront émis via notre agence partenaire Rêves et Nature.",
+    "Réservez avec Tihouredja et nous vous aidons à obtenir un visa à l'arrivée grâce à une autorisation de voyage. Vous paierez les frais de visa à l'aéroport. Les documents seront émis via notre agence partenaire Rêves et Nature.",
   ],
   [
     "Comment se rendre à Djanet ?",
@@ -542,7 +542,7 @@ export const faqs = [
   ],
   [
     "Puis-je payer par carte en Algérie ?",
-    "Non. L'économie algérienne fonctionne en espèces. Apportez suffisamment d'argent liquide pour votre voyage. Le change est disponible dans les aéroports, mais Tihay peut également vous assister.",
+    "Non. L'économie algérienne fonctionne en espèces. Apportez suffisamment d'argent liquide pour votre voyage. Le change est disponible dans les aéroports, mais Tihouredja peut également vous assister.",
   ],
   [
     "Ai-je besoin d'une assurance voyage ?",
